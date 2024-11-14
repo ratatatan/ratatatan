@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ! <img src="assets/nodders.gif" width="33" height="33" />
 
 <!--
 **tolkts/tolkts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
